@@ -1,0 +1,10 @@
+config,error,n_partial_losses,n_risky_attempts,n_transfers,n_vehicles_lost,optimality_gap_pct,repeat,status,total_cost_usd,unmet_need,wall_time_s
+local_everywhere,,1,9,10,2,73.091314,0,OK,0.0,26806.245075,252.742115
+local_everywhere,,1,9,10,2,73.091314,1,OK,0.0,26806.245075,296.760288
+local_everywhere,,1,9,10,2,73.091314,2,OK,0.0,26806.245075,302.975204
+haiku_everywhere,,0,9,0,1,69.668157,0,OK,0.167123,26276.108816,134.83696
+haiku_everywhere,,0,9,0,1,69.134338,1,OK,0.167754,26193.437499,152.61815
+haiku_everywhere,,0,10,0,1,68.405002,2,OK,0.167624,26080.486961,122.560454
+local_parsing_haiku_negotiation_dispatch,,1,10,0,1,69.904732,0,OK,0.139006,26312.746552,158.02363
+local_parsing_haiku_negotiation_dispatch,,1,8,0,2,70.291001,1,OK,0.140789,26372.567142,171.156476
+local_parsing_haiku_negotiation_dispatch,,1,8,0,2,70.375312,2,OK,0.13916,26385.624163,143.20467

@@ -1,0 +1,4 @@
+config,gap_range_across_scenario_means,n_scenarios,n_total_runs_attempted,n_total_runs_ok,optimality_gap_pct_mean,optimality_gap_pct_std,total_cost_usd_mean,total_cost_usd_std,total_optimal_unmet_need_across_scenarios,unmet_need_mean,unmet_need_std
+local_everywhere,51.7,3,15,15,29.9,24.5,0.0,0.0,3236.66,1239.31,789.29
+haiku_everywhere,13.5,3,15,15,2.4,9.7,0.053931,0.003475,3236.66,1086.71,731.92
+local_parsing_haiku_negotiation,22.4,3,15,15,-2.0,11.3,0.018199,0.000874,3236.66,1107.71,765.53

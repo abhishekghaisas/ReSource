@@ -1,0 +1,10 @@
+config,n_ok,optimal_unmet_need,optimality_gap_pct_mean,optimality_gap_pct_std,scenario,status,total_cost_usd_mean,total_cost_usd_std,unmet_need_mean,unmet_need_std
+local_everywhere,5,104.19,63.2,0.0,flood:42,OK,0.0,0.0,170.08,0.0
+local_everywhere,5,1650.79,14.8,0.0,wildfire:7,OK,0.0,0.0,1895.29,0.0
+local_everywhere,5,1481.68,11.5,0.0,earthquake:99,OK,0.0,0.0,1652.54,0.0
+haiku_everywhere,5,104.19,6.9,13.2,flood:42,OK,0.049285,0.000473,111.41,13.72
+haiku_everywhere,5,1650.79,6.9,1.8,wildfire:7,OK,0.056914,0.000178,1764.48,29.9
+haiku_everywhere,5,1481.68,-6.6,0.4,earthquake:99,OK,0.055593,0.000674,1384.23,5.2
+local_parsing_haiku_negotiation,5,104.19,-11.4,10.3,flood:42,OK,0.017083,0.000421,92.28,10.75
+local_parsing_haiku_negotiation,5,1650.79,11.0,0.3,wildfire:7,OK,0.018514,6e-05,1832.34,5.12
+local_parsing_haiku_negotiation,5,1481.68,-5.6,0.4,earthquake:99,OK,0.019001,0.0001,1398.49,5.58

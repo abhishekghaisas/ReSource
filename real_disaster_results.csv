@@ -1,0 +1,10 @@
+config,error,optimality_gap_pct,repeat,status,total_cost_usd,unmet_need,wall_time_s
+local_everywhere,,7.670296,0,OK,0.0,662518.721617,1677.037511
+local_everywhere,,7.670296,1,OK,0.0,662518.721617,1577.331413
+local_everywhere,,7.670296,2,OK,0.0,662518.721617,1620.973638
+local_parsing_haiku_negotiation,,7.673812,0,OK,0.085024,662540.357154,871.149783
+local_parsing_haiku_negotiation,,7.658817,1,OK,0.07608,662448.089541,717.501748
+local_parsing_haiku_negotiation,,7.673808,2,OK,0.085025,662540.335355,719.750075
+local_parsing_haiku_negotiation_dispatch,,7.670556,0,OK,0.193092,662520.322525,509.316451
+local_parsing_haiku_negotiation_dispatch,,7.665902,1,OK,0.188543,662491.684108,593.787959
+local_parsing_haiku_negotiation_dispatch,,7.665902,2,OK,0.19018,662491.684108,557.0869
